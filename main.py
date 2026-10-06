@@ -2,6 +2,16 @@
 
 
 
+'''
+Celsius=float(input("Enter the temperature in Celsius:"))
+Fahrenheit = (Celsius * 9/5) + 32
+Kelvin = Celsius + 273.15
+print(f"{Celsius}\u00b0C = {Fahrenheit} \u00b0 F")
+print(f"{Celsius}\u00b0C = {Kelvin} K")
+
+'''
+
+
 
 '''
 
