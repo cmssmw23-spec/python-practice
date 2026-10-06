@@ -1,5 +1,12 @@
 
-
+a=input("Enter First name:")
+b=input('Enter last name:')
+c=int(input('Enter year of birth:'))
+d=2026
+print(20*'-')
+print(f"Fullname: {a} {b}")
+print(f"initials: {a[0]}.{b[0]}")
+print(f"Age:{d-c}")
 
 
 '''
